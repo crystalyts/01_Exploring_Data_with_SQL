@@ -6,4 +6,4 @@ I first utilized the sales data from Magist, an online shop based in Brazil. Mag
 
 ---
 
-Magist dump file can be found under "Releases".
+Magist dump file download: https://drive.google.com/drive/folders/16YZYqJsbtLCEa7x1bkFdvmIhPVAYzwE_?usp=sharing
